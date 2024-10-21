@@ -1,8 +1,8 @@
-Origin: YourRepoName
-Label: YourRepoLabel
+Origin: Walrepo
+Label: Walrepo Beta Repository
 Suite: stable
 Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm
 Components: main
-Description: A description of your repo
+Description: A beta repository for testing tweaks and apps.
